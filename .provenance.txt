@@ -1,0 +1,17 @@
+# generator info
+name: Python Flask Microservice
+group: atomist-project-templates
+artifact: flask-service
+version: 1.1.1
+
+# backing git repo
+repo: atomist-project-templates/flask-service.git
+branch: master
+sha: 8100c46
+
+# parameter values
+description: My new project
+version: 0.1.0
+project_name: MyNewPythonService
+app_name: mynewmicroservice
+
